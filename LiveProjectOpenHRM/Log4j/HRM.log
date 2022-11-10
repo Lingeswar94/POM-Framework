@@ -1,0 +1,147 @@
+2022-09-20 13:58:42 INFO  Commonfunction:36 - Orange HRM begin
+2022-09-20 13:58:42 INFO  Commonfunction:37 - Loading the Preporty file
+2022-09-20 13:58:42 INFO  Commonfunction:45 - Lanuching Chrome
+2022-09-20 13:58:51 INFO  Commonfunction:54 - Navigating to Appication
+2022-09-20 13:58:51 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-09-20 13:58:52 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-09-20 13:58:56 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-09-20 13:58:56 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-09-20 13:58:56 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-09-20 13:58:58 INFO  Test_User_Role_Req:36 - selecting user role
+2022-09-20 13:58:59 INFO  Test_User_Role_Req:44 - End of User role req
+2022-09-20 13:58:59 INFO  Commonfunction:61 - Closing the browser
+2022-11-06 00:13:27 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-06 00:13:27 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-06 00:13:27 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-06 00:13:40 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-06 00:13:40 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-06 00:13:42 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-06 00:14:15 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-11-06 00:14:16 INFO  Test_User_Role_Req:36 - selecting user role
+2022-11-06 00:14:18 INFO  Test_User_Role_Req:44 - End of User role req
+2022-11-06 00:14:18 INFO  Commonfunction:60 - Closing the browser
+2022-11-08 16:02:20 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-08 16:02:20 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-08 16:02:20 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-08 16:02:37 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-08 16:02:38 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-08 16:02:39 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-08 16:02:42 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-08 16:02:42 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-11-08 16:02:44 INFO  Test_User_Role_Req:36 - selecting user role
+2022-11-08 16:02:46 INFO  Test_User_Role_Req:44 - End of User role req
+2022-11-08 16:02:46 INFO  Commonfunction:60 - Closing the browser
+2022-11-08 16:05:11 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-08 16:05:11 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-08 16:05:11 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-08 16:05:19 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-08 16:05:19 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-08 16:05:21 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-08 16:05:24 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-08 16:05:24 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-11-08 16:05:25 INFO  Test_User_Role_Req:36 - selecting user role
+2022-11-08 16:05:27 INFO  Test_User_Role_Req:44 - End of User role req
+2022-11-08 16:05:27 INFO  Commonfunction:60 - Closing the browser
+2022-11-08 16:08:50 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-08 16:08:50 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-08 16:08:50 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-08 16:08:57 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-08 16:08:57 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-08 16:08:59 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-08 16:09:02 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-08 16:09:02 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-11-08 16:09:02 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-11-08 16:09:03 INFO  Test_User_Role_Req:36 - selecting user role
+2022-11-08 16:09:06 INFO  Test_User_Role_Req:44 - End of User role req
+2022-11-08 16:09:06 INFO  Commonfunction:60 - Closing the browser
+2022-11-08 16:29:10 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-08 16:29:10 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-08 16:29:10 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-08 16:29:19 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-08 16:29:19 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-08 16:29:21 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-08 16:29:25 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-08 16:29:25 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-11-08 16:29:25 INFO  Test_User_Role_Req:33 - Navigating to user page
+2022-11-08 16:29:55 INFO  Commonfunction:60 - Closing the browser
+2022-11-08 16:34:22 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-08 16:34:22 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-08 16:34:22 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-08 16:34:30 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-08 16:34:30 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-08 16:34:31 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-08 16:34:34 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-08 16:34:34 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-11-08 16:34:34 INFO  Test_User_Role_Req:32 - Navigating to user page
+2022-11-08 16:35:05 INFO  Commonfunction:60 - Closing the browser
+2022-11-08 16:36:47 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-08 16:36:47 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-08 16:36:47 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-08 16:37:04 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-08 16:37:04 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-08 16:37:05 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-08 16:37:09 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-08 16:37:09 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-11-08 16:37:09 INFO  Test_User_Role_Req:33 - Navigating to user page
+2022-11-08 16:37:11 INFO  Test_User_Role_Req:35 - selecting user role
+2022-11-08 16:37:15 INFO  Test_User_Role_Req:43 - End of User role req
+2022-11-08 16:37:15 INFO  Commonfunction:60 - Closing the browser
+2022-11-08 16:39:20 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-08 16:39:20 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-08 16:39:20 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-08 16:39:27 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-08 16:39:27 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-08 16:39:28 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-08 16:39:31 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-08 16:39:31 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-11-08 16:39:31 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-11-08 16:39:35 INFO  Test_User_Role_Req:36 - selecting user role
+2022-11-08 16:39:37 INFO  Test_User_Role_Req:44 - End of User role req
+2022-11-08 16:39:37 INFO  Commonfunction:60 - Closing the browser
+2022-11-08 17:16:46 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-08 17:16:46 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-08 17:16:46 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-08 17:17:02 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-08 17:17:02 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-08 17:17:03 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-08 17:17:07 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-08 17:17:07 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-11-08 17:17:07 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-11-08 17:17:13 INFO  Test_User_Role_Req:36 - selecting user role
+2022-11-08 17:17:18 INFO  Commonfunction:60 - Closing the browser
+2022-11-08 17:37:49 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-08 17:37:49 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-08 17:37:49 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-08 17:37:56 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-08 17:37:56 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-08 17:37:57 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-08 17:38:01 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-08 17:38:01 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-11-08 17:38:01 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-11-08 17:38:04 INFO  Test_User_Role_Req:36 - selecting user role
+2022-11-08 17:38:06 INFO  Test_User_Role_Req:48 - End of User role req
+2022-11-08 17:38:06 INFO  Commonfunction:60 - Closing the browser
+2022-11-10 12:28:23 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-10 12:28:23 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-10 12:28:23 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-10 12:28:33 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-10 12:28:33 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-10 12:28:35 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-10 12:28:38 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-10 12:28:38 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-11-10 12:28:38 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-11-10 12:28:41 INFO  Test_User_Role_Req:36 - selecting user role
+2022-11-10 12:28:43 INFO  Test_User_Role_Req:48 - End of User role req
+2022-11-10 12:28:43 INFO  Commonfunction:60 - Closing the browser
+2022-11-10 13:34:11 INFO  Commonfunction:35 - Orange HRM begin
+2022-11-10 13:34:11 INFO  Commonfunction:36 - Loading the Preporty file
+2022-11-10 13:34:11 INFO  Commonfunction:44 - Lanuching Chrome
+2022-11-10 13:34:20 INFO  Commonfunction:53 - Navigating to Appication
+2022-11-10 13:34:20 INFO  Test_Pending_Leave_Req:18 - Logging the appication 
+2022-11-10 13:34:21 INFO  Test_Pending_Leave_Req:38 - Getting the Test pending req
+2022-11-10 13:34:24 INFO  Test_Pending_Leave_Req:40 - Getting the pending message
+2022-11-10 13:34:24 INFO  Test_Pending_Leave_Req:42 - End of Pending leave req
+2022-11-10 13:34:25 INFO  Test_User_Role_Req:34 - Navigating to user page
+2022-11-10 13:34:27 INFO  Test_User_Role_Req:36 - selecting user role
+2022-11-10 13:34:29 INFO  Test_User_Role_Req:48 - End of User role req
+2022-11-10 13:34:29 INFO  Commonfunction:60 - Closing the browser
